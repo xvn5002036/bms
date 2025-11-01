@@ -1,0 +1,99 @@
+
+TD {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 150%
+}
+
+}
+A:link {
+	COLOR: red; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: red; TEXT-DECORATION: none
+}
+.bg_1 {
+	BACKGROUND-POSITION: 20px 50%; BACKGROUND-IMAGE: url(../images/bg_2.gif); BACKGROUND-REPEAT: no-repeat
+}
+.bg_3 {
+	BACKGROUND-POSITION: right bottom; BACKGROUND-IMAGE: url(../images/bg_3.gif); BACKGROUND-REPEAT: no-repeat
+}
+.bg_4 {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(../images/index_bg_3.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.bg_6 {
+	BACKGROUND-POSITION: right bottom; BACKGROUND-IMAGE: url(../images/bg_6.gif); BACKGROUND-REPEAT: no-repeat
+}
+.bg_7 {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(../images/tree_right.gif); BACKGROUND-REPEAT: repeat-y
+}
+.x {
+	BORDER-RIGHT: #999999 1px; BORDER-TOP: #999999 1px; BORDER-LEFT: #999999 1px; BORDER-BOTTOM: #999999 1px dashed
+}
+.change {
+	BACKGROUND-POSITION: left center; PADDING-LEFT: 20px; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/o_1.gif); COLOR: #006600; BACKGROUND-REPEAT: no-repeat; TEXT-DECORATION: none
+}
+.change:hover {
+	FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/o_2.gif); COLOR: #00cc00; TEXT-DECORATION: none
+}
+.link1 {
+	FONT-SIZE: 12px; COLOR: #006600; LINE-HEIGHT: 150%
+}
+.link1:link {
+	FONT-SIZE: 12px; COLOR: #ff6600; LINE-HEIGHT: 150%; TEXT-DECORATION: none
+}
+.link1:hover {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 150%; TEXT-DECORATION: none
+}
+.link1:visited {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 150%; TEXT-DECORATION: none
+}
+.link2 {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 150%
+}
+.link2:link {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 150%; TEXT-DECORATION: none
+}
+.link2:hover {
+	FONT-SIZE: 12px; COLOR: #ff6600; LINE-HEIGHT: 150%; TEXT-DECORATION: none
+}
+.link2:visited {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 150%; TEXT-DECORATION: none
+}
+.link3 {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 150%
+}
+.link3:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 150%; TEXT-DECORATION: none
+}
+.link3:hover {
+	FONT-SIZE: 12px; COLOR: red; LINE-HEIGHT: 150%; TEXT-DECORATION: none
+}
+.link3:visited {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 150%; TEXT-DECORATION: none
+}
+.news {
+	FONT-SIZE: 12px; COLOR: #996600; LINE-HEIGHT: 150%; TEXT-DECORATION: none
+}
+.button1 {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #ffffff 1px solid; WIDTH: 60px; COLOR: #000000; BORDER-BOTTOM: #ffffff 1px solid; HEIGHT: 25px
+}
+.input1 {
+	BORDER-RIGHT: #d68800 2px solid; BORDER-TOP: #d68800 2px solid; FONT-SIZE: 12px; BORDER-LEFT: #d68800 2px solid; COLOR: #990000; BORDER-BOTTOM: #d68800 2px solid; BACKGROUND-COLOR: #fff4f4
+}
+.bk1 {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(../images/index_bgtop_0413.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.bk2 {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(../images/index_bg_4.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.bk3 {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(../images/index_bgtopa_0413.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.bk4 {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(../images/index_bg_3.jpg); BACKGROUND-REPEAT: no-repeat
+}

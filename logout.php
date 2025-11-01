@@ -1,0 +1,10 @@
+<?php
+	if(isset($_SESSION['access'])){
+	session_destroy();
+	header("Location:index.php?page=logoutOK");}
+	else{
+?>
+±z¤wµn¥X.
+<?php
+   	}
+?>
